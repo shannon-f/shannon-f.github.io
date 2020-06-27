@@ -247,6 +247,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag (~> 2.6, >= 2.6.1)
   minima (~> 2.5)
   texture
   tzinfo (~> 1.2)

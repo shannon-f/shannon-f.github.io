@@ -17,11 +17,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+#title: Shannon Fluellen
 
 
 # Build settings
-remote_theme: thelehhman/texture
+remote_theme: shannon-f/texture
 texture:
   title: Shannon Fluellen
   tagline: Software Engineer
@@ -37,6 +37,7 @@ texture:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
