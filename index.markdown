@@ -14,10 +14,12 @@ I've worked on projects as both a part of Agile teams and as the sole engineer. 
 company where I can make a significant impact. 
 
 # Work Experience
-## Jive Software/Aurea
-### Professional Services Engineer
-## HEB Grocery
-### Software Developer
+## 2015-2020
+### [Jive Software](https://www.jivesoftware.com "Jive Software") 
+#### Professional Services Engineer
+## 2014-2015 
+### [HEB Grocery](https://www.heb.com)
+#### Software Developer
 
 # Programming Languages
 - Java
