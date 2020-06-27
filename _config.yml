@@ -21,7 +21,7 @@
 
 
 # Build settings
-remote_theme: shannon-f/texture
+remote_theme: thelehhman/texture
 texture:
   title: Shannon Fluellen
   tagline: Software Engineer
