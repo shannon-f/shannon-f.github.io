@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Shannon Fluellen - Software Engineer
+title: Home
 ---
 # About Me
 <img src="/assets/img/ShannonFluellen.jpeg" width="300"/>
