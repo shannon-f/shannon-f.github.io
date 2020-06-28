@@ -16,10 +16,15 @@ company where I can make a significant impact.
 # Work Experience
 ## 2015-2020
 ### [Jive Software](https://www.jivesoftware.com "Jive Software") 
-#### Professional Services Engineer
+Professional Services Engineer
 ## 2014-2015 
 ### [HEB Grocery](https://www.heb.com)
-#### Software Developer
+Software Developer
+
+# Education
+## The University of Texas at San Antonio
+Bachelor of Science in Computer Science, December 2013
+- concentration in Software Engineering 
 
 # Programming Languages
 - Java
