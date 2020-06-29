@@ -9,7 +9,7 @@ title: Home
 <img src="/assets/img/ShannonFluellen.jpeg" width="300"/>
 
 I'm a software engineer in Houston, TX with 6.5 years of professional experience in enterprise software development.
-I've gained experience working with a variety of technologies and languages such as Java, Javascript, NodeJS, and Objective-C.
+I've worked with a variety of technologies and languages such as Java, Javascript, NodeJS, and Objective-C.
 I've worked on projects as both a part of Agile teams and as the sole engineer. I'm looking for a remote position at a
 company where I can make a significant impact. 
 
@@ -26,7 +26,25 @@ Software Developer
 Bachelor of Science in Computer Science, December 2013
 - concentration in Software Engineering 
 
+# Projects
+## iOS
+### Custom version of [Jive Daily](https://apps.apple.com/us/app/jive-daily-hosted/id1158658042) for Deutsche Bank (Objective-C)
+- Implemented the first integration of a Jive add-on with the Jive Daily iOS application, allowing users to view and submit forms natively 
+- Added the existing web file preview image feature to Jive Daily 
+- Implemented video embed functionality and UI changes for use of a custom video provider
+
+## Java-based Web Applications
+- Added rich media preview functionality to the core Jive editor, enabling links to be displayed in a way similar to
+ social media sites such as Facebook and Twitter
+
+
 # Programming Languages
-- Java
-- Javascript
+- Java (Oracle Certified Associate Developer)
+- JavaScript
 - Objective-C
+
+# Frameworks and Tools
+- Spring
+- Maven
+- UIKit
+
