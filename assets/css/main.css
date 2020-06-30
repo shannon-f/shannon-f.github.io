@@ -1617,7 +1617,7 @@
 	@media screen and (max-width: 480px) {
 
 		html, body {
-			min-width: 320px;
+			min-width: 300px;
 		}
 
 	}
@@ -3278,6 +3278,7 @@
 
 				#header nav a {
 					padding: 0 0.5em;
+					display:none !important;
 				}
 
 					#header nav a:last-child {
