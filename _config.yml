@@ -17,25 +17,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+github_url: http://www.github.com/shannon-f
+linkedin_url: https://www.linkedin.com/in/shannonfluellen/
 
 # Build settings
-remote_theme: thelehhman/texture
-texture:
-  title: Shannon Fluellen
-  tagline: Software Engineer
-  date_format: "%b %-d, %Y"
+remote_theme: andrewbanchich/forty-jekyll-theme
 
-  social_links:
-    twitter:
-    github:  shannon-f
-    linkedIn: in/shannonfluellen # format: locale/username
-
-
-  style: green
-
-title: Shannon Fluellen - Software Engineer
+title: Shannon Fluellen
+subtitle: Software Engineer
 description: A software engineer's personal website
+banner-text: Software Engineer
+
+city: Houston
+state: TX
 
 plugins:
   - jekyll-feed

@@ -1,0 +1,38 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+<!--	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>-->
+<!--	<nav>-->
+<!--		<a href="#menu">Menu</a>-->
+<!--	</nav>-->
+<!--    <ul class="actions">-->
+<!--        <li><a href="#about-me" class="button next scrolly">About Me</a></li>-->
+<!--        <li><a href="#work-experience" class="button next scrolly">Work Experience</a></li>-->
+<!--        <li><a href="#projects" class="button next scrolly">Projects</a></li>-->
+<!--    </ul>-->
+    <nav>
+        <a href="#about-me" class="scrolly">About Me</a>
+        <a href="#work-experience" class="scrolly">Work</a>
+        <a href="#projects" class="scrolly">Projects</a>
+        <a href="#footer" class="scrolly">GitHub/LinkedIn</a>
+    </nav>
+
+</header>
+
+<!-- Menu -->
+<!--<nav id="menu">-->
+<!--	<ul class="links">-->
+<!--        {% for page in site.pages %}-->
+<!--		    {% if page.layout == "home" %}-->
+<!--		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>-->
+<!--	    	{% endif %}-->
+<!--		{% endfor %}-->
+<!--		{% for page in site.pages %}-->
+<!--		    {% if page.layout != "home" %}-->
+<!--		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>-->
+<!--		    {% endif %}-->
+<!--		{% endfor %}-->
+<!--	</ul>-->
+<!--</nav>-->
