@@ -28,8 +28,6 @@ subtitle: Software Engineer
 description: A software engineer's personal website
 banner-text: Software Engineer
 
-city: Houston
-state: TX
 
 plugins:
   - jekyll-feed
