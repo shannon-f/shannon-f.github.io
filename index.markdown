@@ -8,12 +8,15 @@ landing-title: Shannon Fluellen
 # About Me
 <img src="/assets/img/ShannonFluellen.jpeg" width="300" style="border-radius: 100%; "/>
 
-I'm a software engineer in Houston, TX with 6.5 years of professional experience in enterprise software development.
+I'm a software engineer in Houston, TX with 8 years of professional experience in enterprise software development.
 I've used a variety of technologies and languages such as Java, Javascript, NodeJS, and Objective-C.
 I've worked on projects as both a part of Agile teams and as the sole engineer. I'm looking for a remote position at a
 company where I can make a significant impact. 
 
 # Work Experience
+# 2020-present
+## <a href="https://www.pmd.com">pMD <i class="fa fa-external-link fa-1" style="font-size: 14px;" aria-hidden="true"></i></a>
+Senior Software Engineer
 ## 2015-2020
 ### <a href="https://www.jivesoftware.com">Jive Software <i class="fa fa-external-link fa-1" style="font-size: 14px;" aria-hidden="true"></i></a>
 Professional Services Engineer
