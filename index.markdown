@@ -14,7 +14,7 @@ I've worked on projects as both a part of Agile teams and as the sole engineer. 
 company where I can make a significant impact. 
 
 # Work Experience
-## 2020-present
+## 2020-2022
 ### <a href="https://www.pmd.com">pMD <i class="fa fa-external-link fa-1" style="font-size: 14px;" aria-hidden="true"></i></a>
 Senior Software Engineer
 ## 2015-2020
