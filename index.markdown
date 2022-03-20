@@ -30,6 +30,11 @@ Bachelor of Science in Computer Science, December 2013
 
 # Projects
 ## iOS
+### <a href="https://apps.apple.com/us/app/pmd/id298467642" >pMD <i class="fa fa-external-link fa-1" style="font-size: 14px;" aria-hidden="true"></i></a> (Swift and Objective-C)
+- Converted 1:1 voice/video calling to group voice/video calling, including a redesign of the in-call UI
+- Implemented recorded call consent feature
+- Added automatic selection of supervising physician for subsequent visits based on previous visit's supervisor selection 
+
 ### Custom version of <a href="https://apps.apple.com/us/app/jive-daily-hosted/id1158658042" >Jive Daily <i class="fa fa-external-link fa-1" style="font-size: 14px;" aria-hidden="true"></i></a> (Objective-C)
 - Implemented the first integration of a Jive add-on with the Jive Daily iOS application, allowing users to view and submit forms natively 
 - Added the existing web file preview image feature to Jive Daily 
