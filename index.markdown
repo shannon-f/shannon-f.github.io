@@ -8,10 +8,9 @@ landing-title: Shannon Fluellen
 # About Me
 <img src="/assets/img/ShannonFluellen.jpeg" width="300" style="border-radius: 100%; "/>
 
-I'm a software engineer in Houston, TX with 8 years of professional experience in enterprise software development.
-I've used a variety of technologies and languages such as Java, Javascript, NodeJS, and Objective-C.
-I've worked on projects as both a part of Agile teams and as the sole engineer. I'm looking for a remote position at a
-company where I can make a significant impact. 
+I'm a software engineer in Houston, TX with 8 years of professional experience in full stack web and iOS software development.
+I've used a variety of technologies and languages such as Swift, Java, Javascript, NodeJS, and Objective-C.
+I've worked on projects as both a part of Agile teams and as the sole engineer. 
 
 # Work Experience
 ## 2020-2022
