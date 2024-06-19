@@ -13,6 +13,9 @@ I've used a variety of technologies and languages such as Swift, Java, Javascrip
 I've worked on projects as both a part of Agile teams and as the sole engineer. 
 
 # Work Experience
+## 2022-Present
+### <a href="https://www.spotify.com">Spotify <i class="fa fa-external-link fa-1" style="font-size: 14px;" aria-hidden="true"></i></a>
+Engineer II
 ## 2020-2022
 ### <a href="https://www.pmd.com">pMD <i class="fa fa-external-link fa-1" style="font-size: 14px;" aria-hidden="true"></i></a>
 Senior Software Engineer
